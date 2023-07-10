@@ -4,5 +4,7 @@
 # el nombre de usuario de github VladyValle se incluye en la ruta del repositorio 
 # para la autenticación del caso
 
+# Se puede validar por token creado desde el portal de github, 
+# foto de usuario/settings/developer settings/personal tokens
 
 git remote set-url origin https://VladyValle@github.com/VladyValle/github-actions-course-resources_progressive
